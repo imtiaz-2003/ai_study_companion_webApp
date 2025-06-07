@@ -1,6 +1,6 @@
 # 🧠 AI Study Companion - Enhanced Edition
 
-A beautiful, fully functional Next.js web application that transforms any topic into a complete learning experience using HuggingFace's Google Flan-T5-Large AI model.
+A beautiful, fully functional Next.js web application that transforms any topic into a complete learning experience using HuggingFace's Google Flan-T5-Large AI model.   
 
 ![AI Study Companion Hero](https://images.unsplash.com/photo-1513475382585-d06e58bcb0e0?w=1200&h=600&fit=crop&crop=center)
 
