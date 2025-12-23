@@ -11,7 +11,7 @@ A beautiful, fully functional Next.js web application that transforms any topic 
 - 🃏 **Interactive Flashcards**: Study with beautiful flip-able flashcards
 - ❓ **Intelligent Quizzes**: Test knowledge with AI-generated multiple-choice questions
 - 🤖 **AI Q&A Chat**: Ask follow-up questions and get instant answers
-- 🗺️ **Personalized Study Plans**: Get structured learning roadmaps
+- 🗺️ **Personalized Study Plans**: Get structured learning roadmaps  
 
 ### 🎨 **Enhanced UI/UX**
 - 🌈 **Beautiful Gradients**: Modern gradient backgrounds and components
